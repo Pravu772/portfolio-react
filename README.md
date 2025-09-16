@@ -6,6 +6,8 @@ git clone this project url
 
 cd your project folder
 
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
